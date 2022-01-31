@@ -1,2 +1,2 @@
 # planets
-Networking Programming
+Network Programming
